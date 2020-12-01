@@ -1,0 +1,9 @@
+C:\Users\76744\source\repos\DSN_UserInterface\DSN_UserInterface\bin\Debug\DSN_UserInterface.exe.config
+C:\Users\76744\source\repos\DSN_UserInterface\DSN_UserInterface\bin\Debug\DSN_UserInterface.exe
+C:\Users\76744\source\repos\DSN_UserInterface\DSN_UserInterface\bin\Debug\DSN_UserInterface.pdb
+C:\Users\76744\source\repos\DSN_UserInterface\DSN_UserInterface\obj\Debug\DSN_UserInterface.csprojAssemblyReference.cache
+C:\Users\76744\source\repos\DSN_UserInterface\DSN_UserInterface\obj\Debug\DSN_UserInterface.Properties.Resources.resources
+C:\Users\76744\source\repos\DSN_UserInterface\DSN_UserInterface\obj\Debug\DSN_UserInterface.csproj.GenerateResource.cache
+C:\Users\76744\source\repos\DSN_UserInterface\DSN_UserInterface\obj\Debug\DSN_UserInterface.csproj.CoreCompileInputs.cache
+C:\Users\76744\source\repos\DSN_UserInterface\DSN_UserInterface\obj\Debug\DSN_UserInterface.exe
+C:\Users\76744\source\repos\DSN_UserInterface\DSN_UserInterface\obj\Debug\DSN_UserInterface.pdb
